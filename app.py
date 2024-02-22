@@ -7,7 +7,7 @@ from gtts import gTTS
 from PIL import Image
 
 st.title("Interfases Multimodales.")
-image = Image.open('michi.jpg')
+image = Image.open('uwu.jpg')
 
 st.image(image, width=200)
 
