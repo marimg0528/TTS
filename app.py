@@ -18,7 +18,7 @@ except:
     pass
 
 st.subheader("Texto a audio.")
-st.write('En esta app puedes hacer uso de la función TTS de Google, solo escribe algo en el textbox de abajo y dale a enter uwu')
+st.write('En esta app puedes hacer uso de la función TTS de Google, solo escribe algo en el textbox de abajo y dale click al botón de convertir uwu')
            
 
 text = st.text_input("Ingresa el texto.")
